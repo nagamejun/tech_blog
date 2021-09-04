@@ -5,7 +5,7 @@ const siteMetadata = {
   description: '日々の気づきをつらつらと',
   language: 'ja',
   siteUrl: 'https://nagamejun.dev',
-  siteRepo: 'https://github.com/nagamejun/next',
+  siteRepo: 'https://github.com/nagamejun/tech_blog',
   siteLogo: '/static/images/logo.jpg',
   image: '/static/images/avatar.jpeg',
   socialBanner: '/static/images/twitter-card.png',
